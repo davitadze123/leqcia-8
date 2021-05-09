@@ -1,0 +1,78 @@
+.container{
+  display: flex;
+}
+.box{
+  margin: 40px;
+  width: 100px;
+}
+.left{
+  width: 127px;
+  height: 16px;
+  margin: 40px;
+}
+.banner{
+  position: relative;
+  margin-top: 20px;
+}
+.favorite{
+  position: absolute;
+  margin-left: 450px;
+  margin-top: 600px;
+  background-color: white;
+  width: 60px;
+  height: 25px;
+}
+.one{
+  justify-content: center;
+  width: 500px;
+  height: 150px;
+}
+.Nav{
+  background: 50px;
+  background-color: #306B34;
+}
+.Nav1{
+  background-color: #306B34;
+}
+.second{
+  display: flex;
+  background-size: 5px;
+  background-color: #306B34;
+  justify-content: space-around;
+}
+h1{
+  margin: 50px;
+}
+.coffe{
+  width: 679px;
+  height: 300px;
+}
+h2{
+  margin: 30px;
+  margin-left: 160px;
+  margin-top: 80px;
+}
+.end{
+  margin: 10px;
+  width: 600px;
+  height: 200px;
+  margin-top: 150px;
+  margin-left: 500px;
+}
+.enter{
+  margin-top: 50px;
+  margin-left: 0px;
+}
+.next{
+  margin-top: 20px;
+  margin-left: 150px;
+}
+.logo{
+  display: flex;
+  justify-content: center;
+  margin-top: 130px;
+  background-color: #306B34;
+}
+.about{
+  font-family: Kazimir;
+  } 
