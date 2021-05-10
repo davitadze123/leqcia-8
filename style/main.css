@@ -79,7 +79,7 @@ footer{
   display: flex;
   justify-content: center;
   justify-content: space-around (10px);
-  column-gap: 20px;
+  column-gap: 40px;
 }
 h5{
   padding-left: 2px;
