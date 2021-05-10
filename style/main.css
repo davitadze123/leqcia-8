@@ -77,7 +77,7 @@ footer{
 }
 .one_box{
   display: flex;
-  margin-left: 580px;
+  margin-left: 550px;
   justify-content: space-around (10px);
   column-gap: 40px;
 }
